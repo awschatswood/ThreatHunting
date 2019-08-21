@@ -66,3 +66,4 @@ Bugfixes
 - Added the Initial Access tactic and properly sorted them on all pages
 - Re-added the computer investigator page
 - Changed sourcetype to source in macros
+- Add one extra line
